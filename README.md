@@ -5,7 +5,7 @@ Before starting unzip the Shorts.csv file and the procede
 
 check report for all methods
 
-This method is very slow to so Its uncompleted still working on it to speed up
+This method is very slow to so in a way its uncompleted still working on it to speed up
 
 
 use gpu for fasters results
