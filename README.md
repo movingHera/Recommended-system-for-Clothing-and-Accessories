@@ -22,4 +22,7 @@ https://github.com/facebookresearch/faiss
 
 Output everything in JSON format 
 
-Product with the similar items and there percentage 
+Productids with the similar items and there percentage similarity
+
+
+
