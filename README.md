@@ -19,3 +19,7 @@ Finally for getting  faster cosine similarity check this out
 
 https://github.com/facebookresearch/faiss
 
+
+Output everything in JSON format 
+
+Product with the similar items and there percentage 
