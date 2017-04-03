@@ -1,11 +1,11 @@
 # Finding-similar-products
+
 Before starting unzip the Shorts.csv file and the procede
 
 
 check report for all methods
 
-
-Its uncompleted still working on it 
+This method is very slow to so Its uncompleted still working on it to speed up
 
 
 use gpu for fasters results
